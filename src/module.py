@@ -1,4 +1,4 @@
-def isPowerOfTwo(n:int)->int:
+def isPowerOfTwo(n:int)->bool:
     if n ==1:
         return True
     elif n==0:
