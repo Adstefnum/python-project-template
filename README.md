@@ -5,4 +5,6 @@ Just a project template for proper python project structre for ease of manageabi
 ![Tests](https://github.com/Adstefnum/python-project-template/actions/workflows/tests.yml/badge.svg)
 
 # INstructions
+- spin up a virtual env
 - Install your modules locally with  ``` pip install -e src ```
+
