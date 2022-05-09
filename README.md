@@ -6,5 +6,6 @@ Just a project template for proper python project structre for ease of manageabi
 
 # INstructions
 - spin up a virtual env
-- Install your modules locally with  ``` pip install -e src ```
+- Install dev requirements locally and prod for production
+- Install your whole project locally with  ``` pip install -e . ```
 
