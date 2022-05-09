@@ -1,1 +1,6 @@
-#where the actual source code lives
+def isPowerOfTwo(n:int)->int:
+    if n ==1:
+        return True
+    elif n==0:
+        return False
+    return (n & (n-1))==0
