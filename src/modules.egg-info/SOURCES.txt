@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/modules/__init__.py
+src/modules/module.py
+src/modules/py.typed
+src/modules.egg-info/PKG-INFO
+src/modules.egg-info/SOURCES.txt
+src/modules.egg-info/dependency_links.txt
+src/modules.egg-info/not-zip-safe
+src/modules.egg-info/requires.txt
+src/modules.egg-info/top_level.txt
