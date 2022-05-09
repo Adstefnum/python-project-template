@@ -3,3 +3,6 @@ Just a project template for proper python project structre for ease of manageabi
 
 # Add badge to view if tests are passing
 ![Tests](https://github.com/Adstefnum/python-project-template/actions/workflows/tests.yml/badge.svg)
+
+# INstructions
+- Install your modules locally with  ``` pip install -e src ```
