@@ -111,6 +111,11 @@ env.bak/
 venv.bak/
 pyvenv/
 
+# vim backup files
+.swo
+.swp
+.vim
+
 # Spyder project settings
 .spyderproject
 .spyproject
