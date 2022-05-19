@@ -114,7 +114,8 @@ pyvenv/
 # vim backup files
 .swo
 .swp
-.vim
+*.vim
+
 
 # Spyder project settings
 .spyderproject
